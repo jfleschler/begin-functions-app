@@ -1,0 +1,7 @@
+{
+  "name": "prayer-t5n-get-foo-000bar",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin-functions/data": "latest"
+  }
+}
